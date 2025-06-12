@@ -50,9 +50,11 @@
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-## 🐍 Snake Game Animation
+## 🎮 Play Live
 
-![Snake Game GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+You can play the game live here:  
+👉 [Click to Play Snake Game](https://your-username.github.io/snake-game/)
+
 
 
 
