@@ -50,9 +50,7 @@
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-## 🐍 Snake Game Animation
 
-![Snake Game Real GIF](https://raw.githubusercontent.com/dennislwy/snake-game/master/snake-demo.gif)
 
 
 
