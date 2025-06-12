@@ -49,3 +49,25 @@
   <a href="https://fiverr.com/yourusername"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+# 🐍 Snake Game
+
+This is a simple Snake Game project made with love using HTML, CSS, and JavaScript.
+
+## 🎮 Features
+
+- Classic snake movement
+- Score tracking
+- Game over logic
+- Keyboard arrow control
+- Responsive design
+
+## 🚀 How to Run
+
+Just open the `index.html` file in any modern browser and start playing!
+
+```bash
+git clone https://github.com/mahiinsarker/snake-game.git
+cd snake-game
+open index.html
+
