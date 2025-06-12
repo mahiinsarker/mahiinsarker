@@ -37,6 +37,14 @@
 | **Contact Page** | ![Contact Page](https://i.imgur.com/aW90XF8.png) |
 
 ---
+## 🌐 Live Projects
+
+<p align="center">
+  <a href="https://chic-pie-fec20d.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Live%20Project-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  </a>
+</p>
+---
 
 ## 📊 GitHub Stats
 
