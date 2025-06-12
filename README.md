@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/Responsive%20Design-FFD700?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
+---
+
 ## 💼 My Work Showcase
 
 | Project         | Preview |
@@ -32,12 +34,13 @@
 | **Business Site** | ![Business Site](https://i.imgur.com/zqWBgQ2.jpeg) |
 | **Contact Page** | ![Contact Page](https://i.imgur.com/aW90XF8.png) |
 
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahiinsarke&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiinsarke&theme=tokyonight" height="150">
 </p>
 
 ---
@@ -45,17 +48,28 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://fiverr.com/yourusername"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:mahiinsarker@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- Fiverr button kept for future use -->
+  <!-- <a href="https://fiverr.com/yourusername"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a> -->
+  <a href="https://github.com/mahiinsarke"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+---
 
+## 🐍 Snake Game Animation
 
+> Just for fun! Here's a mini snake animation to show my love for creative frontend experiments.
 
+![Snake Game GIF](https://raw.githubusercontent.com/dennislwy/snake-game/master/snake-demo.gif)
 
+---
 
+## 🤝 Let's Collaborate!
 
+If you're looking for a fast, responsive, and clean landing page — I'm here to help!  
+📩 Just [drop me an email](mailto:mahiinsarker@gmail.com) or connect with me on GitHub.
 
+<!-- Future Fiverr CTA can go here -->
+<!-- Or [Hire me on Fiverr](https://fiverr.com/yourusername) -->
 
-
+---
