@@ -30,9 +30,9 @@
 
 | Project | Preview |
 |--------|---------|
-| **Landing Page** | ![Landing](https://via.placeholder.com/200x120.png?text=Landing+Page) |
-| **Business Site** | ![Business](https://via.placeholder.com/200x120.png?text=Business+Site) |
-| **Contact Form** | ![Form](https://via.placeholder.com/200x120.png?text=Contact+Form) |
+| **Landing Page** | ![Landing](https://imgur.com/a/eD1b4es) |
+| **Business Site** | ![Business](https://imgur.com/zqWBgQ2) |
+| **Contact Form** | ![Form](https://imgur.com/a/Ca5Kf1M) |
 
 ---
 
