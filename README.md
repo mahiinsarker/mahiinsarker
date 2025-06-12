@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahiinsarke&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiinsarke&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahiinsarker&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiinsarker&theme=tokyonight" height="150">
 </p>
 
 ---
@@ -53,14 +53,6 @@
   <!-- <a href="https://fiverr.com/yourusername"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a> -->
   <a href="https://github.com/mahiinsarke"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
----
-
-## 🐍 Snake Game Animation
-
-> Just for fun! Here's a mini snake animation to show my love for creative frontend experiments.
-
-![Snake Game GIF](https://raw.githubusercontent.com/dennislwy/snake-game/master/snake-demo.gif)
 
 ---
 
