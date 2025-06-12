@@ -52,8 +52,8 @@
 
 ## 🎮 Play Live
 
-You can play the game live here:  
-👉 [Click to Play Snake Game](https://your-username.github.io/snake-game/)
+![Snake Game GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 
 
 
