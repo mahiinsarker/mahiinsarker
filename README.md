@@ -50,24 +50,10 @@
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-# 🐍 Snake Game
+## 🐍 Snake Game Animation
 
-This is a simple Snake Game project made with love using HTML, CSS, and JavaScript.
+![Snake Game GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-## 🎮 Features
 
-- Classic snake movement
-- Score tracking
-- Game over logic
-- Keyboard arrow control
-- Responsive design
 
-## 🚀 How to Run
-
-Just open the `index.html` file in any modern browser and start playing!
-
-```bash
-git clone https://github.com/mahiinsarker/snake-game.git
-cd snake-game
-open index.html
 
