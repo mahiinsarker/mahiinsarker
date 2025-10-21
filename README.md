@@ -62,6 +62,12 @@
     <img src="https://img.shields.io/badge/View%20Live%20Project-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </p>
+
+<p align="center">
+  <a href="http://zioshop.kesug.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Live%20Project-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
