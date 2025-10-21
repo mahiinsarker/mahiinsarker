@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="http://zioshop.kesug.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ZioShop Backend-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/ZioShop Backend-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </p>
 ---
