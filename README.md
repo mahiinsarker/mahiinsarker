@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://chic-pie-fec20d.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/e-Commerce%20FrontEnd-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&height=28">
+    <img src="https://img.shields.io/badge/eCommerce%20FrontEnd-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&height=28">
   </a>
 </p>
 
