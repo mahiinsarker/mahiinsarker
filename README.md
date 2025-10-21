@@ -37,47 +37,40 @@
 | **Contact Page** | ![Contact Page](https://i.imgur.com/aW90XF8.png) |
 
 ---
+---
 ## 🌐 Live Projects
+---
 
 <p align="center">
   <a href="https://chic-pie-fec20d.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/e-Commerce_frontEnd-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/e-Commerce%20FrontEnd-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&height=28">
   </a>
 </p>
 
 <p align="center">
   <a href="https://celebrated-maamoul-f1b005.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Protfolio-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&height=28">
   </a>
 </p>
 
 <p align="center">
   <a href="https://chic-pie-fec20d.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/ZioshopFront_end-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/ZioShop%20FrontEnd-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&height=28">
   </a>
 </p>
 
 <p align="center">
   <a href="https://mahiin.42web.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Protfolio-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/Personal%20Portfolio-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&height=28">
   </a>
 </p>
 
 <p align="center">
   <a href="http://zioshop.kesug.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ZioShop Backend-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/ZioShop%20Backend-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&height=28">
   </a>
 </p>
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahiinsarker&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiinsarker&theme=tokyonight" height="150">
-</p>
-
----
 
 ## 📫 Contact Me
 
