@@ -41,25 +41,25 @@
 
 <p align="center">
   <a href="https://chic-pie-fec20d.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Live%20Project-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/e-Commerce_frontEnd-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </p>
 
 <p align="center">
   <a href="https://celebrated-maamoul-f1b005.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Live%20Project-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/Protfolio-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </p>
 
 <p align="center">
   <a href="https://chic-pie-fec20d.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Live%20Project-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/ZioshopFront_end-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </p>
 
 <p align="center">
   <a href="https://mahiin.42web.io/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Live%20Project-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/Personal_Protfolio-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </p>
 
