@@ -37,9 +37,8 @@
 | **Contact Page** | ![Contact Page](https://i.imgur.com/aW90XF8.png) |
 
 ---
----
 ## 🌐 Live Projects
----
+
 
 <p align="center">
   <a href="https://chic-pie-fec20d.netlify.app/" target="_blank">
@@ -70,7 +69,7 @@
     <img src="https://img.shields.io/badge/ZioShop%20Backend-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&height=28">
   </a>
 </p>
-
+---
 
 ## 📫 Contact Me
 
@@ -79,7 +78,7 @@
   <!-- Fiverr button kept for future use -->
   <!-- <a href="https://fiverr.com/yourusername"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a> -->
   <a href="https://github.com/mahiinsarker"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://celebrated-maamoul-f1b005.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://mahiin.42web.io/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
 
