@@ -42,13 +42,13 @@
 
 <p align="center">
   <a href="https://chic-pie-fec20d.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Ecommerce%20FrontEnd-%20View%20Project%20-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/Ecommerce%20FrontEnd-%30View%30Project%30-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </p>
 
 <p align="center">
   <a href="https://celebrated-maamoul-f1b005.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Project-%20View%20Project%20-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio%30Project-%30View%20Project%30-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </p>
 
