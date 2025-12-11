@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-🎯 I specialize in **modern landing page design** using only HTML & CSS  
+🎯 I specialize in **PHP Web De Development** using only HTML, CSS, & PHP 
 📱 Mobile-first responsive layout enthusiast  
 📩 Contact form integration expert  
 ⚡ Fast, lightweight & SEO-friendly coding  
