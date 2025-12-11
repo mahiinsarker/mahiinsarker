@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎯 I specialize in **PHP Web De Development** using only HTML, CSS, & PHP 
+🎯 I specialize in **PHP Web  Development** using only HTML, CSS, & PHP 
 📱 Mobile-first responsive layout enthusiast  
 📩 Contact form integration expert  
 ⚡ Fast, lightweight & SEO-friendly coding  
